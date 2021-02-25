@@ -55,4 +55,4 @@ The strategy used by default it is only with demonstrative purpose. Feel free an
 
 MIT
 
-**Free Software, Hell Yeah!**
+**Free Software!**
